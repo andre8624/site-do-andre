@@ -1,7 +1,17 @@
+:root{
+    --cor-de-fundo:
+    --cor-de-texto:
+}
 body{    
     background-color: rgb(231, 243, 247);
 } 
 h1{
     color: #312e2dce;
 }
-style{}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
+}
+header{
+
+}
