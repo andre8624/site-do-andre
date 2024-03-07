@@ -1,6 +1,6 @@
 :root{
-    --cor-de-fundo:rgba(217, 213, 213, 0.808)
-    --cor-de-texto: #304030 ;
+    --cor-de-fundo: #80ccdc;
+    --cor-de-texto: #304030;
 }
 body{    
     background-color: var(--cor-de-fundo)
@@ -20,7 +20,7 @@ justify-content:space-around ;
 align-items: center;
 }
 section{  
-    background-color: #00ffb3;
+    background-color: #829690;
     color: #000000;
     margin: 40px;
     padding: 40px;
