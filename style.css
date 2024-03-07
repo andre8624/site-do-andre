@@ -18,10 +18,10 @@ justify-content:space-around ;
 align-items: center;
 
 }
-section{
-    desplay: flex;
-    background-color: ;
-    color: ;
-    /*margin: 80px; */
+section{  
+    background-color: #d1dbd8;
+    color: #606d71;
+    margin: 80px;
     padding: 75px;
+    display: flex;
 }
