@@ -12,6 +12,7 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
     position:relative; 
+    
 }
 header{
     display: flex;
