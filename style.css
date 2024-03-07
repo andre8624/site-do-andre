@@ -1,9 +1,9 @@
 :root{
     --cor-de-fundo:rgba(217, 213, 213, 0.808)
-    --cor-de-texto:;
+    --cor-de-texto: #304030 ;
 }
 body{    
-    background-color: rgb(175, 185, 188);
+    background-color: var(--cor-de-fundo)
 } 
 h1{
     
