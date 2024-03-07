@@ -16,7 +16,6 @@ header{
     display: flex;
 justify-content:space-around ;
 align-items: center;
-
 }
 section{  
     background-color: #d1dbd8;
@@ -28,11 +27,14 @@ section{
 div{
     margin:0 20px 0 0;
 
-}
+
 img{
     width: 20%;
     image-rendering: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.logo{
+    width: 10%;
 }
