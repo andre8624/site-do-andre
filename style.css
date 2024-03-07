@@ -25,12 +25,6 @@ section{
     margin: 40px;
     padding: 40px;
     display: flex;
-        width: 20%;
-        image-rendering: auto;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-
 }
 div{
     margin:0 20px 0 0;
@@ -40,4 +34,11 @@ div{
     }
 .logo{
     width: 10%;
+}
+img{
+    width: 20%;
+    image-rendering: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
