@@ -26,5 +26,12 @@ section{
     display: flex;
 }
 div{
-    
+
+}
+img{
+    width: 30%;
+    image-rendering: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
