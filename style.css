@@ -1,12 +1,12 @@
 :root{
     --cor-de-fundo:rgba(217, 213, 213, 0.808)
-    --cor-de-texto:#000000;
+    --cor-de-texto:;
 }
 body{    
     background-color: rgb(175, 185, 188);
 } 
 h1{
-    color: #312e2dce;
+    
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -24,4 +24,7 @@ section{
     margin: 40px;
     padding: 40px;
     display: flex;
+}
+div{
+    
 }
