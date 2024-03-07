@@ -3,7 +3,7 @@
     --cor-de-texto:#000000;
 }
 body{    
-    background-color: rgb(231, 243, 247);
+    background-color: rgb(62, 65, 66);
 } 
 h1{
     color: #312e2dce;
@@ -20,8 +20,8 @@ align-items: center;
 }
 section{  
     background-color: #d1dbd8;
-    color: #606d71;
-    margin: 80px;
-    padding: 75px;
+    color: #000000;
+    margin: 40px;
+    padding: 40px;
     display: flex;
 }
