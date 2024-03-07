@@ -13,8 +13,15 @@ body{
     color: var(--cor-de-texto);
 }
 header{
+    display: flex;
+justify-content:space-around ;
+align-items: center;
 
 }
 section{
-    
+    desplay: flex;
+    background-color: ;
+    color: ;
+    /*margin: 80px; */
+    padding: 75px;
 }
