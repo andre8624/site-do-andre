@@ -24,8 +24,8 @@ body{
 }
 header{
     display: flex;
-justify-content:space-around ;
-align-items: center;
+    justify-content:space-around ;
+    align-items: center;
 }
 section{  
     background-color: #829690;
