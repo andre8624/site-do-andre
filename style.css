@@ -1,4 +1,7 @@
-:root{
+*{
+
+}
+root{
     --cor-de-fundo: #cce8ee;
     --cor-de-texto: #304030;
 }
@@ -6,7 +9,12 @@ body{
     background-color: var(--cor-de-fundo)
 } 
 h1{
+    color: var(--cor-de-texto);
+
     
+}
+p{
+
 }
 body{
     background-color: var(--cor-de-fundo);
