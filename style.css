@@ -2,15 +2,15 @@
 
 }
 root{
-    --cor-de-fundo: #c5e2e9;
+    --cor-de-fundo: #c5e0e7;
     --cor-de-texto: #304030;
 }
 h1{
     color: var(--cor-de-texto);
 }
 body{
-    background-color: var(--cor-de-fundo);
-    color: var(--cor-de-texto);
+    background-color:var(--cor-de-fundo)
+    color:var(--cor-de-texto);
 }
 header{
     display: flex;
