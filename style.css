@@ -38,10 +38,3 @@ div{
 .logo{
     width: 10%;
 }
-img{
-    width: 20%;
-    image-rendering: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
