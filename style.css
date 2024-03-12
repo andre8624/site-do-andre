@@ -10,11 +10,6 @@ body{
 } 
 h1{
     color: var(--cor-de-texto);
-
-    
-}
-p{
-
 }
 body{
     background-color: var(--cor-de-fundo);
