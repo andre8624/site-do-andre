@@ -29,16 +29,15 @@ section{
     margin: 70px;
     padding: 70px;
     display: flex 
-    style{
-        element.style{
             border: 3px solid #66696a;
             border-radius: 30px;
-            }
-    }
+}
+    
 div{
     margin:0 20px 0 0;
     }
 logo{
     width: 10%;
 }
+
 
