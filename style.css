@@ -24,7 +24,6 @@ section{
     margin: 70px;
     padding: 70px;
     display: flex
-    border-radius: 30px; 
     }
     element.style {
         border-radius: 30px;
