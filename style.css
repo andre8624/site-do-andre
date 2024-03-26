@@ -12,6 +12,11 @@ h1{
 body{
     background-color:var(--cor-de-fundo)
     color:var(--cor-de-texto);
+  font-family: "Imbue", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 }
 hearder {
     display: flex;
@@ -29,8 +34,8 @@ section{
     margin: 70px;
     padding: 70px;
     display: flex 
-            border: 3px solid #66696a;
-            border-radius: 30px;
+    border: 3px solid #66696a;
+    border-radius: 30px;
 }
     
 div{
@@ -39,5 +44,6 @@ div{
 logo{
     width: 10%;
 }
+
 
 
