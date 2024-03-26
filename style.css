@@ -13,18 +13,19 @@ body{
     background-color:var(--cor-de-fundo)
     color:var(--cor-de-texto);
 }
-header{
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-    
+hearder {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 section{  
     background-color: #829690;
     color: #000000;
     margin: 70px;
     padding: 70px;
-    display: flex;
+    display: flex
+    border-radius: 30px; 
+    }
 }
 div{
     margin:0 20px 0 0;
