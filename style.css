@@ -4,7 +4,6 @@
 root{
     --cor-de-fundo: rgb(222, 224, 228);
     --cor-de-texto: #000000;
-   
 }
 h1{
     color: var(--cor-de-texto);
@@ -32,7 +31,10 @@ section{
     color: #000000;
     margin: 15px;
     padding: 10px;
-    display: flex   
+    display: flex;
+    border: 3px solid #66696a;
+    border-radius: 30px;   
+
 }
 div{
     margin:0 10px 0 0;
