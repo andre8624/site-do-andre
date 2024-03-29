@@ -27,12 +27,19 @@ element.style {
     border: 3px solid #66696a;
     border-radius: 30px;
 }
-section{  
+section.torre.de.pisa{  
     background-color: #829690;
     color: #000000;
     margin: 15px;
     padding: 10px;
     display: flex   
+    img.face{
+        float: left;
+        border: transparent thin solid;
+        padding: 5px;
+        margin: 0px 10px 10px 0;
+        max-width: 186px;
+    }
 }
 div{
     margin:0 10px 0 0;
