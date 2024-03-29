@@ -70,6 +70,12 @@ section.Pisa{
 }
 div{
     margin:0 10px 0 0;
+    div {
+        width: 100px;
+        height: 100px;
+    }
+    #piramide {
+        background-color: magenta;    
     }
 logo{
     width: 10%;
@@ -80,7 +86,7 @@ logo{
     margin: 10px;
     padding: 5px;
 }
-section.piramide{
+div.piramide{
     background-color: #829690;
     color: #000000;
     margin: 10px;
