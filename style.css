@@ -57,13 +57,10 @@ logo{
     width: 10%;
 }
 section.piramide{
-    background-color: #829690;
+    background-color: #71f0ca;
     color: #000000;
     margin: 10px;
     padding: 5px;
-    display: flex;
-    border: 5px solid #66696a;
-    border-radius: 30px;  
 }
 section.equipe{
    
