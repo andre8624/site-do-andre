@@ -62,8 +62,8 @@ width: 700px;
     height: auto;
         }
     img {
-        width: 100px;
-        height: 100px;
+        width: 175px;
+        height: 150px;
         object-fit: fill;
         border: 3px solid #000000;
         border-radius: 30px;
