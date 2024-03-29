@@ -45,7 +45,7 @@ logo{
     width: 10%;
 }
 section.equipe{
-    div.equipe{ 
+   
         img {
             width: 100px;
             height: 100px;
@@ -56,14 +56,11 @@ section.equipe{
     align-items: center;
     border: 3px solid #66696a;
     border-radius: 30px;
-  
-}
 .container img {
     max-width:10px;
     max-height:10px;
     width: auto;
     height: auto;
-}
 }
 }
 
