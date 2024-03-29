@@ -27,13 +27,11 @@ element.style {
     border-radius: 30px;
 }
 img.torre.torta{
-   
-    height:10%;
-    width: 30%;
-    image-rendering:auto;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
+    float: left;
+    border: transparent thin solid;
+    padding: 15px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
 }
 
 section{  
@@ -44,6 +42,12 @@ section{
     display: flex;
     border: 3px solid #66696a;
     border-radius: 30px;   
+    height:10%;
+    width: 30%;
+    image-rendering:auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
  img{
     border: 3px solid #272727;
     border-radius: 30px; 
