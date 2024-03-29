@@ -63,7 +63,7 @@ section.Pisa{
         width: 100px;
         height: 100px;
         object-fit: fill;
-        border: 3px solid #66696a;
+        border: 3px solid #000000;
         border-radius: 30px;
       }
 }
