@@ -48,24 +48,24 @@ img.torre.torta{
 
 section.Pisa{  
     background-color: #829690;
-    color: #000000;
-    margin: 10px;
-    padding: 5px;
     display: flex;
-    border: 5px solid hsl(195, 2%, 41%);
-    border-radius: 30px; 
-    width: 700px;  
- img{
-    border: 2px#555353;
-    border-radius: 30px;  
-    height: 175px;
-        width: 150px;
-        float: left;
-        padding: 20px;
-        margin: 0px 20px 10px 0;
-        max-width: 186px;
-    }
-
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #525455;
+    border-radius: 30px;
+.container img {
+    max-width:10px;
+    max-height:10px;
+    width: auto;
+    height: auto;
+        }
+    img {
+        width: 100px;
+        height: 100px;
+        object-fit: fill;
+        border: 3px solid #66696a;
+        border-radius: 30px;
+      }
 }
 section.piramide{
     background-color: #829690;
@@ -100,7 +100,7 @@ section.equipe{
         border-radius: 30px;
       }
 }
-}
+
 
 
 
