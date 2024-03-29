@@ -26,6 +26,13 @@ element.style {
     border: 3px solid #66696a;
     border-radius: 30px;
 }
+img.torre.torta{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+}
 section{  
     background-color: #829690;
     color: #000000;
