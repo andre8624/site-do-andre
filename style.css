@@ -33,6 +33,8 @@ section.torre.de.pisa{
     margin: 15px;
     padding: 10px;
     display: flex   
+    border: 3px solid #66696a;
+    border-radius: 30px;
     img.face{
         float: left;
         border: transparent thin solid;
