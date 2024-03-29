@@ -46,7 +46,7 @@ img.torre.torta{
     max-width: 186px;
 }
 
-section{  
+section.Pisa{  
     background-color: #829690;
     color: #000000;
     margin: 10px;
@@ -55,7 +55,7 @@ section{
     border: 5px solid hsl(195, 2%, 41%);
     border-radius: 30px; 
     width: 700px;  
-    
+
  img{
     border: 3px solid #272727;
     border-radius: 30px;  
