@@ -20,6 +20,16 @@ hearder {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    img{
+        height: 23px;
+        width: 23px;
+        float: left;
+        border: transparent thin solid;
+        padding: 15px;
+        margin: 0px 10px 10px 0;
+        max-width: 186px;
+
+    }
     }
 
 element.style {
