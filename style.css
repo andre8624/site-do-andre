@@ -46,8 +46,11 @@ logo{
 }
 section.equipe{
     div.equipe{ 
-    margin: 10px;
-    padding: 10px;
+        img {
+            width: 100px;
+            height: 100px;
+            object-fit: fill;
+          }
     display: flex;
     justify-content: space-around;
     align-items: center;
