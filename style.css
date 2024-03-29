@@ -33,7 +33,6 @@ section.torre.de.pisa{
     margin: 15px;
     padding: 10px;
     display: flex   
-    border: 3px solid #66696a;
     border-radius: 30px;
     img.face{
         float: left;
@@ -59,7 +58,7 @@ section.equipe{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 3px solid #66696a;
+    border: 3px solid #525455;
     border-radius: 30px;
 .container img {
     max-width:10px;
