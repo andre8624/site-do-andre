@@ -48,11 +48,13 @@ img.torre.torta{
 
 section.Pisa{  
     background-color: #829690;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: 3px solid #525455;
-    border-radius: 30px;
+color: #000000;
+margin: 10px;
+padding: 5px;
+display: flex;
+border: 5px solid hsl(195, 2%, 41%);
+border-radius: 30px; 
+width: 700px;  
 .container img {
     max-width:10px;
     max-height:10px;
