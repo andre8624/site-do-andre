@@ -44,8 +44,6 @@ section{
     display: flex;
     border: 5px solid #66696a;
     border-radius: 30px;   
-    height: 50px;
-    width: 30px;
  img{
     border: 3px solid #272727;
     border-radius: 30px; 
