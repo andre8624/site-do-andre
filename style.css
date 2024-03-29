@@ -21,12 +21,12 @@ hearder {
     justify-content: space-around;
     align-items: center;
     img{
-        height: 23px;
-        width: 23px;
+        height: 30px;
+        width: 30px;
         float: left;
         border: transparent thin solid;
-        padding: 15px;
-        margin: 0px 10px 10px 0;
+        padding: 20px;
+        margin: 0px 20px 10px 0;
         max-width: 186px;
 
     }
