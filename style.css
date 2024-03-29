@@ -32,9 +32,8 @@ img.torre.torta{
     padding: 5px;
     margin: 0px 10px 10px 0;
     max-width: 186px;
-    border: 3px solid #66696a;
-    border-radius: 30px;
 }
+
 section{  
     background-color: #829690;
     color: #000000;
@@ -57,6 +56,8 @@ section.equipe{
             width: 100px;
             height: 100px;
             object-fit: fill;
+            border: 3px solid #66696a;
+            border-radius: 30px;
           }
     display: flex;
     justify-content: space-around;
