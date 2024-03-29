@@ -56,8 +56,8 @@ section.equipe{
   
 }
 .container img {
-    max-width:200px;
-    max-height:150px;
+    max-width:10px;
+    max-height:10px;
     width: auto;
     height: auto;
 }
