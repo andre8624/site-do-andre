@@ -68,12 +68,7 @@ section.Pisa{
     }
 
 }
-div{
-    margin:0 10px 0 0;
-    div {
-        width: 100px;
-        height: 100px;
-    }
+section{
     #piramide {
         background-color: magenta;    
     }
