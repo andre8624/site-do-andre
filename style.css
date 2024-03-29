@@ -68,39 +68,20 @@ section.Pisa{
     }
 
 }
-section{
-    #piramide {
-        background-color: magenta;    
-    }
-        }
+section.piramide{
+    background-color: #829690;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #525455;
+    border-radius: 30px;
+
+}   
 logo{
     width: 10%;
 }
-{
-    background-color: #71f0ca;
-    color: #000000;
-    margin: 10px;
-    padding: 5px;
-}
-div.piramide{
-    background-color: #829690;
-    color: #000000;
-    margin: 10px;
-    padding: 5px;
-    display: flex;
-    border: 5px solid #66696a;
-    border-radius: 30px;   
-}
 section.equipe{
     background-color: #829690;
-   
-        img {
-            width: 100px;
-            height: 100px;
-            object-fit: fill;
-            border: 3px solid #66696a;
-            border-radius: 30px;
-          }
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -111,6 +92,14 @@ section.equipe{
     max-height:10px;
     width: auto;
     height: auto;
+        }
+    img {
+        width: 100px;
+        height: 100px;
+        object-fit: fill;
+        border: 3px solid #66696a;
+        border-radius: 30px;
+      }
 }
 }
 
