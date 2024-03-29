@@ -27,11 +27,6 @@ element.style {
     border-radius: 30px;
 }
 img.torre.torta{
-    float: left;
-    border: transparent thin solid;
-    padding: 15px;
-    margin: 0px 10px 10px 0;
-    max-width: 186px;
     height:10%;
     width: 30%;
     image-rendering:auto;
