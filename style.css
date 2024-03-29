@@ -21,8 +21,8 @@ hearder {
     justify-content: space-around;
     align-items: center;
     img{
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
         float: left;
         border: transparent thin solid;
         padding: 20px;
