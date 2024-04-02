@@ -46,7 +46,7 @@ img.torre.torta{
     max-width: 186px;
 }
 
-.Pisa{  
+section{  
     background-color: #ffffff;
 color: #000000;
 margin: 10px;
@@ -72,12 +72,9 @@ container img {
 
 }   
 .equipe{
-    background-color: rgb(169, 223, 245);
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    border: 1px solid #5b5a63;
-    border-radius: 1px;
 }
 .foto.equipe{ 
    width: 2px;
