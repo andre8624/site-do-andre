@@ -79,8 +79,6 @@ container img {
 
 }   
 .equipe{ 
-    grid: 100%;
-    grid-template-columns: 33%;
     background-color: #829690;
     display: flex;
     justify-content: space-around;
