@@ -47,7 +47,7 @@ img.torre.torta{
 }
 
 .Pisa{  
-    background-color: #829690;
+    background-color: #9955e7;
 color: #000000;
 margin: 10px;
 padding: 5px;
@@ -70,7 +70,7 @@ container img {
         border-radius: 30px;
       }
 .piramide{
-    background-color: #829690;
+    background-color: #e923be;
     display: flex;
     justify-content: space-around;
     align-items: center;
