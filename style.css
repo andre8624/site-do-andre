@@ -98,7 +98,7 @@ container img {
         height: 50px;
         object-fit: fill;
         border: 3px solid #66696a;
-        border-radius: 30px;
+        border-radius: 1000px;
       }
     }
 }
