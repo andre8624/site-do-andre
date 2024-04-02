@@ -89,8 +89,8 @@ container img {
     border-radius: 30px;
     height: 150px;
 div{  
-   align-items: center;
-        
+        display: flex;
+        align-items: center;  
         width: 90px;
         height: 80px;
         object-fit: fill;
