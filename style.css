@@ -93,6 +93,7 @@ div{
     max-height:10px;
     width: auto;
     height: auto;
+    align-items: center;
         }
     img{
         width: 90px;
