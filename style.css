@@ -78,7 +78,7 @@ section.piramide{
     border-radius: 30px;
 
 }   
-logo{
+.logo{
     width: 10%;
 }
 section.equipe{
@@ -88,10 +88,11 @@ section.equipe{
     align-items: center;
     border: 3px solid #525455;
     border-radius: 30px;
+    height: 150px;
 .container img {
     max-width:10px;
     max-height:10px;
-    width: 20px;
+    width: auto;
     height: auto;
         }
     img {
