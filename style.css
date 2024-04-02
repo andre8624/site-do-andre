@@ -55,7 +55,7 @@ display: flex;
 border: 5px solid hsl(195, 2%, 41%);
 border-radius: 30px; 
 width: 700px;  
-.container img {
+container img {
     max-width:10px;
     max-height:10px;
     width: auto;
@@ -86,15 +86,15 @@ section.equipe{
     border: 3px solid #525455;
     border-radius: 30px;
     height: 150px;
-.div{
-.container img {
+div{
+container img {
     max-width:10px;
     max-height:10px;
     width: auto;
     height: auto;
         }
     img {
-        width: 100px;
+        width: 50px;
         height: 50px;
         object-fit: fill;
         border: 3px solid #66696a;
