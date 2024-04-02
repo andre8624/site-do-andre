@@ -77,6 +77,6 @@ container img {
     text-align: center;
 }
 .foto.equipe{ 
-   width: 2px;
-   height: 5px;
+   padding: 10px;
+   
 }
