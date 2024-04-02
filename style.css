@@ -69,7 +69,7 @@ container img {
         border: 3px solid #5b5a63;
         border-radius: 30px;
       }
-section.piramide{
+.piramide{
     background-color: #829690;
     display: flex;
     justify-content: space-around;
@@ -94,7 +94,6 @@ container img {
     max-height:10px;
     width: auto;
     height: auto;
-    align-items: center;
         }
     img{
         width: 90px;
