@@ -78,7 +78,8 @@ container img {
     border-radius: 30px;
 
 }   
-.equipe{
+.equipe{ 
+    grid: 100%;
     grid-template-columns: 33%;
     background-color: #829690;
     display: flex;
@@ -95,7 +96,7 @@ container img {
     height: auto;
     align-items: center;
         }
-    img {
+    img{
         width: 90px;
         height: 80px;
         object-fit: fill;
