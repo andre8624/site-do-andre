@@ -46,7 +46,7 @@ img.torre.torta{
     max-width: 186px;
 }
 
-section.Pisa{  
+.Pisa{  
     background-color: #829690;
 color: #000000;
 margin: 10px;
@@ -69,7 +69,7 @@ container img {
         border: 3px solid #5b5a63;
         border-radius: 30px;
       }
-section.piramide{
+.piramide{
     background-color: #829690;
     display: flex;
     justify-content: space-around;
@@ -78,7 +78,7 @@ section.piramide{
     border-radius: 30px;
 
 }   
-section.equipe{
+.equipe{
     background-color: #829690;
     display: flex;
     justify-content: space-around;
