@@ -82,6 +82,11 @@ container img {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
+    align-items: center;
+    border: 3px solid #525455;
+    border-radius: 30px;
+    width: auto;
+    height: auto;
 }
 .foto.equipe{ 
     align-items: center;
