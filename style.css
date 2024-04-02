@@ -90,14 +90,12 @@ container img {
     height: 150px;
 div{  
    align-items: center;
-        }
-    img{
+        
         width: 90px;
         height: 80px;
         object-fit: fill;
         border: 3px solid #66696a;
         border-radius: 14px;
-      }
     }
 }
 
