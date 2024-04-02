@@ -60,7 +60,11 @@ width: 700px;
     max-height:10px;
     width: auto;
     height: auto;
-        }
+               }
+    }
+           
+
+        
     img {
         width: 200px;
         height: 225px;
@@ -68,7 +72,6 @@ width: 700px;
         border: 3px solid #5b5a63;
         border-radius: 30px;
       }
-}
 section.piramide{
     background-color: #829690;
     display: flex;
