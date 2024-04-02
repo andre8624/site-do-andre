@@ -79,7 +79,7 @@ container img {
 
 }   
 .equipe{
-    background-color: #e923be;
+    background-color: rgb(169, 223, 245);
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
