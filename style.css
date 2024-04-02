@@ -90,8 +90,8 @@ container img {
     height: auto;
 div{  
         align-items: center;  
-        width: 90px;
-        height: 80px;
+        width: 30px;
+        height: 25px;
         object-fit: fill;
         border: 3px solid #66696a;
         border-radius: 14px;
