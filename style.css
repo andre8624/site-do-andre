@@ -62,13 +62,6 @@ container img {
     height: auto;
                }
     }   
-    img{
-        width: 200px;
-        height: 225px;
-        object-fit: fill;
-        border: 3px solid #5b5a63;
-        border-radius: 30px;
-      }
 .piramide{
     background-color: #e923be;
     display: flex;
