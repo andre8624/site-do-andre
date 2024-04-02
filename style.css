@@ -88,15 +88,13 @@ container img {
     border: 3px solid #525455;
     border-radius: 30px;
     height: auto;
-div{  
-        align-items: center;  
         img{
         width: 90px;
         height: 80px;
         object-fit: fill;
         border: 3px solid #66696a;
         border-radius: 14px;
-    }
+    
     }
 }
 
