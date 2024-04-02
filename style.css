@@ -16,7 +16,7 @@ body{
     font-weight: 500;
     font-style: normal;
 }
-hearder {
+hearder{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -30,7 +30,7 @@ hearder {
         max-width: 186px;
     }
     }
-img.torre.torta{
+torre.torta{
     height: 23px;
     width: 23px;
     float: left;
@@ -41,7 +41,7 @@ img.torre.torta{
 }
 
 section{  
-    background-color: #ffffff;
+    background-color: #91d7e9;
 color: #000000;
 margin: 10px;
 padding: 5px;
