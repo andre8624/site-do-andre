@@ -88,12 +88,8 @@ container img {
     border: 3px solid #525455;
     border-radius: 30px;
     height: 150px;
-div{
-    max-width:10px;
-    max-height:10px;
-    width: auto;
-    height: auto;
-    align-items: center;
+div{  
+   align-items: center;
         }
     img{
         width: 90px;
