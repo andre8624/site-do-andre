@@ -91,8 +91,8 @@ section.equipe{
 .container img {
     max-width:10px;
     max-height:10px;
-    width: auto;
-    height: 10px;
+    width: 20px;
+    height: auto;
         }
     img {
         width: 100px;
