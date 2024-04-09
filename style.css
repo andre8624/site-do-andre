@@ -32,7 +32,7 @@ hearder{
     background-color: #91d7e9;
     display: flex;
     border: 5px solid hsl(195, 2%, 41%);
-    border-radius: 30px; 
+    border-radius: 10px; 
     width: 700px;  
     img.torre{
         border: 2px solid #95a9af;
