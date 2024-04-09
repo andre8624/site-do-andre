@@ -42,7 +42,7 @@ hearder{
         }
 #equipe{
     display: grid;
-    grid-template-columns: 10% 10% 10%;
+    grid-template-columns: 33% 33% 33%;
     text-align: center;
     img{
     display: flex;
