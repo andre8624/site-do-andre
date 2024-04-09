@@ -30,6 +30,13 @@ hearder{
         max-width: 186px;
     }
     }
+    section{  
+    background-color: #91d7e9;
+    display: flex;
+    border: 5px solid hsl(195, 2%, 41%);
+    border-radius: 30px; 
+    width: 700px;  
+        }
 img.torre.torta{
     height: 23px;
     width: 23px;
