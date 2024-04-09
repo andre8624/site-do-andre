@@ -31,7 +31,7 @@ hearder{
     section{  
     background-color: #91d7e9;
     display: flex;
-    border: 1px solid hsl(195, 2%, 41%);
+    border: 3px solid hsl(195, 2%, 41%);
     border-radius: 30px; 
     width: 700px;  
     img.torre{
