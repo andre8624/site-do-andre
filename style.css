@@ -34,6 +34,16 @@ hearder{
     border: 5px solid hsl(195, 2%, 41%);
     border-radius: 30px; 
     width: 700px;  
+    img{
+        height: 23px;
+        width: 23px;
+        float: left;
+        padding: 15px;
+        margin: 0px 10px 10px 0;
+        max-width: 186px;
+        border: 5px solid hsl(195, 2%, 41%);
+        border-radius: 100px;
+        }
         }
 #equipe{
     display: grid;
@@ -47,13 +57,3 @@ hearder{
 footer{
     background-color: rgb(228, 236, 236);
 }
-img{
-    height: 23px;
-    width: 23px;
-    float: left;
-    padding: 15px;
-    margin: 0px 10px 10px 0;
-    max-width: 186px;
-    border: 5px solid hsl(195, 2%, 41%);
-    border-radius: 100px;
-    }
