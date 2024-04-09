@@ -43,12 +43,11 @@ torre.torta{
         height: 50px;
         width: 50px;
         float: left;
-        border: transparent thin solid;
         padding: 20px;
         margin: 0px 20px 10px 0;
         max-width: 186px;
         border: 5px solid hsl(195, 2%, 41%);
-        border-radius: 100px;
+        border-radius: 1000px;
     }
 }
 
