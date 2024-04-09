@@ -48,6 +48,8 @@ hearder{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    width: 30%;
+    height: 30%;
     }
 }
 footer{
