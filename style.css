@@ -46,13 +46,6 @@ hearder{
     text-align: center;
     align-items: center;
     width: 1300px;
-    img{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 30%;
-    height: 30%;
-    }
 }
 footer{
     background-color: rgb(228, 236, 236);
