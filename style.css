@@ -30,7 +30,7 @@ hearder{
         max-width: 186px;
     }
     }
-torre.torta{
+img.torre.torta{
     height: 23px;
     width: 23px;
     float: left;
@@ -39,16 +39,6 @@ torre.torta{
     max-width: 186px;
     border: 5px solid hsl(195, 2%, 41%);
     border-radius: 100px;
-    img{
-        height: 50px;
-        width: 50px;
-        float: left;
-        padding: 20px;
-        margin: 0px 20px 10px 0;
-        max-width: 186px;
-        border: 5px solid hsl(195, 2%, 41%);
-        border-radius: 1000px;
-    }
 }
 
 section{  
