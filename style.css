@@ -44,11 +44,10 @@ hearder{
     display: grid;
     grid-template-columns: 10% 10% 10%;
     text-align: center;
+    img{
     display: flex;
     justify-content: space-around;
     align-items: center;
-   
-
     }
 }
 footer{
