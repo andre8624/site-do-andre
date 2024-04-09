@@ -35,10 +35,6 @@ hearder{
     border-radius: 30px; 
     width: 700px;  
     img.torre{
-        
-        float: left;
-        padding: 15px;
-        margin: 0px 10px 10px 0;
         border: 5px solid #95a9af;
         border-radius: 30px;
         }
