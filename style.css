@@ -42,8 +42,11 @@ hearder{
         }
 #equipe{
     display: grid;
-    grid-template-columns: 10% 10% 10% ;
+    grid-template-columns: 30% 30% 30%;
     text-align: center;
+    img{
+
+    }
 }
 footer{
     background-color: rgb(228, 236, 236);
