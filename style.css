@@ -50,10 +50,10 @@ hearder{
     grid-template-columns: 10% 10% 10% ;
     text-align: center;
 }
-.foto.equipe{ 
-   width: 10px;
-   height: 10px;
-}
 footer{
     background-color: rgb(228, 236, 236);
 }
+.foto.equipe{ 
+    width: 10px;
+    height: 10px;
+ }
