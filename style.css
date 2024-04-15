@@ -67,5 +67,7 @@ footer a {
     text-decoration: none;
 }
 section.p{
-    
+    img{
+        height: 10%;
+    }
 }
