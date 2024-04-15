@@ -40,6 +40,7 @@ hearder{
         float: left;
         height: auto;
         width: 150px;
+        }
         img.pir{
           width: 2%;
           image-rendering: auto;
@@ -48,7 +49,6 @@ hearder{
           margin-right: auto;
           border: 2px solid #95a9af;
         border-radius: 30px;
-        }
         }
         }
 #equipe{
