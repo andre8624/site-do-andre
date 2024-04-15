@@ -58,8 +58,8 @@ footer{
     border-radius: 10px;
     align-items: center;
 }
-header a{
-    color: #ff0000;
+header a.equipe{
+    color: #000000;
     text-decoration: none;
 }
 footer a {
