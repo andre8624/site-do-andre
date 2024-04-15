@@ -40,6 +40,13 @@ hearder{
         float: left;
         height: auto;
         width: 150px;
+        img.p{
+            border: 2px solid #95a9af;
+        border-radius: 30px;
+        float: left;
+        height: auto;
+        width: 150px;
+        }
         }
         }
 #equipe{
@@ -65,9 +72,4 @@ header a.equipe{
 footer a {
     color: #000000;
     text-decoration: none;
-}
-section.p{
-    img{
-        height: 10%;
-    }
 }
