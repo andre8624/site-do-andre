@@ -82,8 +82,5 @@ header a.equipe{
 }
 footer a {
     color: #000000;
-    text-decoration: none;
-}
-section.torre{
-    background-position-x: right;
+    text-decoration: solid;
 }
