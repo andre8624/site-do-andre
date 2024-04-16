@@ -78,7 +78,7 @@ footer{
 }
 header a.equipe{
     color: #000000;
-    text-decoration: none;
+    text-decoration: solid;
 }
 footer a {
     color: #000000;
