@@ -74,7 +74,7 @@ hearder{
 footer{
     background-color: rgb(147, 174, 201);
     border-radius: 15px;
-    align-items: center;
+    align-items: end;
 }
 a{
     color: #000000;
