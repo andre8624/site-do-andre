@@ -9,7 +9,7 @@ h1{
     color: var(--cor-de-texto);
 }
 body{
-    background-color: rgb(71, 255, 246);
+    background-color: rgb(187, 207, 206);
     color:var(--cor-de-texto);
     font-family: "Roboto Condensed", sans-serif;
     font-optical-sizing: auto;
