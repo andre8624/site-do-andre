@@ -72,9 +72,10 @@ hearder{
         }
 }
 footer{
-    background-color: rgb(147, 174, 201);
-    border-radius: 15px;
-    align-items: flex-start;
+    background-color: #b0bad4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 a{
     color: #000000;
