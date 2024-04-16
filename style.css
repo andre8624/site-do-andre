@@ -2,7 +2,7 @@
 
 }
 root{
-    --cor-de-fundo: rgb(19, 214, 228);
+    --cor-de-fundo: rgb(173, 197, 199);
     --cor-de-texto: #000000;
 }
 h1{
@@ -29,7 +29,7 @@ hearder{
     }
     }
     section{  
-    background-color: #91d7e9;
+    background-color: #becdd1;
     display: flex;
     border: 3px solid hsl(195, 2%, 41%);
     border-radius: 30px; 
