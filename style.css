@@ -76,11 +76,6 @@ footer{
     border-radius: 10px;
     align-items: center;
 }
-header a.equipe{
+a{
     color: #000000;
-    text-decoration: solid;
-}
-footer a {
-    color: #000000;
-    text-decoration: solid;
 }
