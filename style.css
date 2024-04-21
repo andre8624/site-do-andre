@@ -69,6 +69,7 @@ hearder{
     img{
         width: 24%;
         height: 15%;
+        border-radius: 10px;
         }
 }
 footer{
