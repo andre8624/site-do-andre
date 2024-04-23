@@ -34,6 +34,7 @@ hearder{
     border: 3px solid hsl(195, 2%, 41%);
     border-radius: 30px; 
     width: 700px;  
+    align-items: center;
     img.torre{
         border: 2px solid #95a9af;
         border-radius: 30px;
