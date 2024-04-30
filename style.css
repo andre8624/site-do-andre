@@ -6,7 +6,7 @@ root{
     --cor-de-texto: #000000;
 }
 h1{
-    color: var(--cor-de-texto);
+
 }
 body{
     background-color: rgb(198, 230, 228);
