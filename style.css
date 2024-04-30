@@ -82,6 +82,9 @@ footer{
     align-items: center;
     border-radius: 10px;
     border: #95a9af;
+    img{
+       border-radius: 10px;
+    }
 }
 a{
     color: #000000;
