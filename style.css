@@ -75,7 +75,7 @@ hearder{
         }
 }
 footer{
-    color: yellow;
+    color: rgb(212, 212, 52);
     background-color: #b0bad4;
     display: flex;
     justify-content: space-around;
