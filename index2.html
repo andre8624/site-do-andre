@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Imagens</title>
+    <script>
+        async function enviarDescricao() {
+            const descricao = document.getElementById('descricao').value;
+            const response = await fetch('/gerar-imagem', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ descricao })
+            });
+            const imagens = await response.json();
+            const resultadoDiv = document.getElementById('resultado');
+            resultadoDiv.innerHTML = imagens.map(imagem => `<img src="${imagem}" alt="Imagem gerada" style="max-width: 200px;"/>`).join('');
+        }
+    </script>
+</head>
+<body>
+    <h1>Gerador de Imagens</h1>
+    <input type="text" id="descricao" placeholder="Digite a descrição da imagem" />
+    <button onclick="enviarDescricao()">Gerar Imagem</button>
+    <div id="resultado"></div>
+</body>
+</html>
