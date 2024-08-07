@@ -1,87 +1,84 @@
-*{
-    margin: 0%;
-    padding: 0%;
+* {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    }
-    body{
-       background-image: url(campo.jpg);
-       background-size: 100% 100%;
-    }
-    
-    header{
-        text-align: center;
-        background-color: rgb(82 83 85 / 50%);
-        margin: 4%;
-        margin-bottom: 0;
-        border-radius: 55px 55px 0 0;
-    }
-    section {
-        text-align: center;
-        background-color: rgb(82 83 85 / 50%);
-        margin: 4%;
-        margin-top: 0;
-        border-radius: 0 0 55px 55px;
-        display: grid;
-        padding-top: 27px;
-        grid-template-columns: 50% 50%;
+}
 
-    }
-    
-    div1{
-        background-color: white;
-        border-radius: 20px;
-        padding: 7px;
-        margin: 20px;
-        width: 66%;
-        height: 38%;
-        margin-left: 28%;
-    }
-    
-    img{
+body {
+    background-image: url(campo.jpg);
+    background-size: cover; /* Para manter a proporção da imagem */
+    background-position: center; /* Centraliza a imagem */
+}
+
+header {
+    text-align: center;
+    background-color: rgba(82, 83, 85, 0.5); /* Usando rgba para opacidade */
+    margin: 4%;
+    margin-bottom: 0;
+    border-radius: 55px 55px 0 0;
+}
+
+section {
+    text-align: center;
+    background-color: rgba(82, 83, 85, 0.5); /* Usando rgba para opacidade */
+    margin: 4%;
+    margin-top: 0;
+    border-radius: 0 0 55px 55px;
+    display: grid;
+    padding-top: 27px;
+    grid-template-columns: 50% 50%;
+}
+
+.div1 { /* Corrigido para .div1 (classes precisam de ponto) */
+    background-color: white;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 20px auto; /* Auto para centralizar */
+    width: 66%;
+    height: 38%;
+}
+
+img {
     width: 100%;
     height: 100%;
     border-radius: 10px;
-    }
-    
-    .link{
-        text-decoration: none;
-        color: black;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+div {
+    background-color: white;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 20px;
+    height: 219px;
+    width: 205px;
+}
+
+/* Para vídeos, se necessário */
+.video {
+    border-radius: 20px;
+    width: 100%;
+    height: auto; /* Para manter a proporção */
+}
+
+@media screen and (min-width: 700px) {
+    body {
+        background-size: cover; /* Para manter a proporção da imagem */
     }
 
-   
-        div{
-            background-color: white;
-            border-radius: 20px;
-            padding: 7px;;
-            margin: 20px;
-            height: 219px;
-            width: 205px;
-        }
-    
-    .video{
-        border-radius: 20px;
-        width: 100%;
-        height: 102%;
-    }
-
-    @media screen and (min-width:700px){
-        body{
-            background-size: 100% 100%;
-         }
-    
-         section{
-            display: grid;
+    section {
+        display: grid;
         grid-template-columns: 70% 30%;
-         }
-    
-         div{ 
-            padding: 12px;
-            width: 100%;
-            height: 50%;
-           
-         }
-         div{
-            height: 500px;
-            margin-left: 3%;
-         }
-        }
+    }
+
+    div {
+        padding: 12px;
+        width: 100%;
+        height: 500px; /* Altura fixa para a coluna */
+        margin-left: 3%;
+    }
+}
